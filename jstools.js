@@ -1,5 +1,3 @@
-
-
 $.selectOptions = function(list, key, value, selected_id){
     var selected = ''
     var newList = ''
