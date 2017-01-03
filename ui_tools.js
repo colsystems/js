@@ -45,3 +45,4 @@ $.alert = function(msg, title, callback){
 }
 
 $.alertActon = {}
+$.new = 'ok'
